@@ -1,0 +1,58 @@
+---
+title: "Skills"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Programming
+
+- **Python**: Proficient in data processing, scientific computing, and scientific plotting within the hydrology and meteorology domains. Experienced in using the Flask lightweight web framework and interfacing with high-performance Fortran computational routines.
+
+- **Fortran**: Learned for developing and applying hydrologic and meteorological models (e.g., SWAT), atmospheric dynamics, and hydraulic simulations. Utilized for writing efficient and dedicated numerical computations.
+
+- **Linux System**: Experienced user.
+
+## Software & Tools
+
+- ArcGIS & QGIS
+- Common plotting and visualization software
+- Reference management tools (Zotero)
+
+## Modeling
+
+- SWAT+
+- PCR-GLOBWB
+- Basic Weather Research and Forecasting (WRF) Model
+
+## Academic Background
+
+### Hydrology Core Courses
+- Principles of Hydrology
+- Hydrological Statistics
+- Hydraulics
+- Fluid Mechanics
+- Hydrological Forecasting
+
+### Meteorology Core Courses
+- Fundamentals of Atmospheric Sciences
+- Synoptic Meteorology
+- Atmospheric Physics
+- Dynamic Meteorology
+
+## Mathematical Foundation
+
+- Calculus
+- Linear Algebra
+- Probability and Mathematical Statistics
+- Tensor Analysis
+- Mathematical Methods in Physics
+- Numerical Solutions of Partial Differential Equations
+
+## Language Proficiency
+
+- English: Passed CET-6, currently preparing for IELTS.
+- German: A2 level.
+- French: Basic sentences and grammar.
+
+

@@ -6,15 +6,10 @@ website:
   page-navigation: true
   title: "Pengxuan Zhu"
   site-url: https://HydrometeorologyZhu.github.io/
-  favicon: images/site-logo.png
+  favicon: images/mylogo.png
   repo-url: https://github.com/lianyujun/lianyujun.github.io
   repo-actions: [edit, issue]
   
-  page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
-    right: |
-      Made with [Quarto](https://quarto.org/)<br>
     
   navbar: 
     background: "#A9CCE3"
@@ -24,16 +19,13 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Blog/Notes"
         href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
+      - text: "Life"
+        href: life.qmd
+
 
 format:
   html:
