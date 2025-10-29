@@ -4,7 +4,7 @@ image: images/zpx.png
 about:
   id: hero-heading
   template: trestles
-  image-width: 8em
+  image-width: 10em
   image-shape: round
   links:
     - icon: mailbox

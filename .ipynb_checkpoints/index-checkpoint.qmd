@@ -4,7 +4,7 @@ image: images/zpx.png
 about:
   id: hero-heading
   template: trestles
-  image-width: 8em
+  image-width: 10em
   image-shape: round
   links:
     - icon: mailbox
@@ -30,6 +30,6 @@ I find that the solitude of long-distance cycling is the perfect place to contem
 
 ## Background
 
-- 2021-2026: Bachelor , Nanjing University of Information Science and Technology, China, majoring in Hydrology and Water Resources.
+- 2021-: Bachelor , Nanjing University of Information Science and Technology, China, majoring in Hydrology and Water Resources.
 
 :::
