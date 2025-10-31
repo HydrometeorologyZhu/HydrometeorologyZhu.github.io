@@ -4,21 +4,56 @@
     "href": "readme.html",
     "title": "Pengxuan Zhu",
     "section": "",
-    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
+    "text": "My homepage is modified based on the personal homepage of lianyujun (GitHub).\nFor the detailed creation process, please refer to the tutorial written by the original author:\n(https://www.lianxh.cn/details/1644.html)"
   },
   {
-    "objectID": "readme.html#如何生成个人主页",
-    "href": "readme.html#如何生成个人主页",
+    "objectID": "readme.html#my-homepage",
+    "href": "readme.html#my-homepage",
     "title": "Pengxuan Zhu",
     "section": "",
-    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
+    "text": "My homepage is modified based on the personal homepage of lianyujun (GitHub).\nFor the detailed creation process, please refer to the tutorial written by the original author:\n(https://www.lianxh.cn/details/1644.html)"
   },
   {
     "objectID": "life.html",
     "href": "life.html",
-    "title": "Codes",
+    "title": "life",
     "section": "",
-    "text": "I will update in future"
+    "text": "2018,2nd Place, 100m & 200m Dash, Qian’an City Sports Games\n\n\n\n\n\n\n\n\n2021,Physical Geography Fieldwork(1)\n\n\n\n\n\n2021,Physical Geography Fieldwork(2)\n\n\n\n\n\n2021,Voted at NUIST Student Congress\n\n\n\n\n\n2021,Group Photo at NUIST Student Congress\n\n\n\n\n\n\n\n\n2022,Free Climbing Nanjing Purple Mountain\n\n\n\n\n\n2022,Provincial Third Prize, Water Innovation Design Contest\n\n\n\n\n\n2022,Data Sampling near Nanjing Yangtze River (1)\n\n\n\n\n\n2022,Data Sampling near Nanjing Yangtze River (2)\n\n\n\n\n\n2022,Gas Composition Analysis with DC Instrument (1)\n\n\n\n\n\n2022,Gas Composition Analysis with DC Instrument (2)\n\n\n\n\n\n2022,NUIST Outstanding Student Cadre\n\n\n\n\n\n2022,NUIST Merit Student\n\n\n\n\n\n2022,Farm Internship\n\n\n\n\n\n2022,Nanjing Hongshanyao Hydraulic Project Internship\n\n\n\n\n\n2022,Nanjing Hydraulic Research Institute Visit\n\n\n\n\n\n2022,National Second Prize, Numerical Water Science Modeling Contest\n\n\n\n\n\n\n\n\n2023,Biked from Nanjing to Yangzhou (1)\n\n\n\n\n\n2023,Biked from Nanjing to Yangzhou (2)\n\n\n\n\n\n2023,Guided Undergraduates in Scientific Plotting\n\n\n\n\n\n2023,Promoted University Motto via Video (1)\n\n\n\n\n\n2023,Promoted University Motto via Video (2)\n\n\n\n\n\n2023,Concluded Provincial Innovation Project: CMIP6-based Extreme Rainfall Risk Zoning\n\n\n\n\n\n2023,Outstanding Student Cadre (President) of Sci-Tech Club\n\n\n\n\n\n2023,Sci-Tech Club Rated Level 5 (Top Tier)\n\n\n\n\n\n\n\n\n2024,Guided Club Activities (1)\n\n\n\n\n\n2024,Guided Club Activities (2)"
+  },
+  {
+    "objectID": "life.html#section",
+    "href": "life.html#section",
+    "title": "life",
+    "section": "",
+    "text": "2018,2nd Place, 100m & 200m Dash, Qian’an City Sports Games"
+  },
+  {
+    "objectID": "life.html#section-1",
+    "href": "life.html#section-1",
+    "title": "life",
+    "section": "",
+    "text": "2021,Physical Geography Fieldwork(1)\n\n\n\n\n\n2021,Physical Geography Fieldwork(2)\n\n\n\n\n\n2021,Voted at NUIST Student Congress\n\n\n\n\n\n2021,Group Photo at NUIST Student Congress"
+  },
+  {
+    "objectID": "life.html#section-2",
+    "href": "life.html#section-2",
+    "title": "life",
+    "section": "",
+    "text": "2022,Free Climbing Nanjing Purple Mountain\n\n\n\n\n\n2022,Provincial Third Prize, Water Innovation Design Contest\n\n\n\n\n\n2022,Data Sampling near Nanjing Yangtze River (1)\n\n\n\n\n\n2022,Data Sampling near Nanjing Yangtze River (2)\n\n\n\n\n\n2022,Gas Composition Analysis with DC Instrument (1)\n\n\n\n\n\n2022,Gas Composition Analysis with DC Instrument (2)\n\n\n\n\n\n2022,NUIST Outstanding Student Cadre\n\n\n\n\n\n2022,NUIST Merit Student\n\n\n\n\n\n2022,Farm Internship\n\n\n\n\n\n2022,Nanjing Hongshanyao Hydraulic Project Internship\n\n\n\n\n\n2022,Nanjing Hydraulic Research Institute Visit\n\n\n\n\n\n2022,National Second Prize, Numerical Water Science Modeling Contest"
+  },
+  {
+    "objectID": "life.html#section-3",
+    "href": "life.html#section-3",
+    "title": "life",
+    "section": "",
+    "text": "2023,Biked from Nanjing to Yangzhou (1)\n\n\n\n\n\n2023,Biked from Nanjing to Yangzhou (2)\n\n\n\n\n\n2023,Guided Undergraduates in Scientific Plotting\n\n\n\n\n\n2023,Promoted University Motto via Video (1)\n\n\n\n\n\n2023,Promoted University Motto via Video (2)\n\n\n\n\n\n2023,Concluded Provincial Innovation Project: CMIP6-based Extreme Rainfall Risk Zoning\n\n\n\n\n\n2023,Outstanding Student Cadre (President) of Sci-Tech Club\n\n\n\n\n\n2023,Sci-Tech Club Rated Level 5 (Top Tier)"
+  },
+  {
+    "objectID": "life.html#section-4",
+    "href": "life.html#section-4",
+    "title": "life",
+    "section": "",
+    "text": "2024,Guided Club Activities (1)\n\n\n\n\n\n2024,Guided Club Activities (2)"
   },
   {
     "objectID": "blog.html",
@@ -39,7 +74,7 @@
     "href": "index.html",
     "title": "Pengxuan Zhu",
     "section": "",
-    "text": "gmail\n  \n  \n    \n     arlionn\n  \n  \n    \n     ResearchGate\n  \n\n  \n  \nI am currently studying at Nanjing University of Information Science and Technology, with a strong research interest in extreme hydrological events, global climate change, and eco-hydrology. In my work, I utilize hydrological models such as the Soil and Water Assessment Tool (SWAT) and PCR-GLOBWB to investigate and address complex research questions in these fields.\nAs a student exploring the path of scientific research, my dream is to contribute meaningfully to a world facing dynamic and multifaceted changes.\nI find that the solitude of long-distance cycling is the perfect place to contemplate the parallel paths of my life and academic work.\n\n\n\n2021-: Bachelor , Nanjing University of Information Science and Technology, China, majoring in Hydrology and Water Resources."
+    "text": "gmail\n  \n  \n    \n     arlionn\n  \n  \n    \n     ResearchGate\n  \n\n  \n  \nI am currently studying at Nanjing University of Information Science and Technology, with a strong research interest in extreme hydrological events, global climate change, and eco-hydrology. In my work, I utilize hydrological models such as the Soil and Water Assessment Tool (SWAT) and PCR-GLOBWB to investigate and address complex research questions in these fields.\nAs a student exploring the path of scientific research, my dream is to contribute meaningfully to a world facing dynamic and multifaceted changes.\nI enjoy contemplating my life and research while on long-distance rides.\n\n\n\n2021-: Bachelor , Nanjing University of Information Science and Technology, China, majoring in Hydrology and Water Resources."
   },
   {
     "objectID": "index.html#background",
@@ -67,7 +102,7 @@
     "href": "publications.html#awards",
     "title": "Publications",
     "section": "Awards",
-    "text": "Awards\n\n2023-2024: President, Science and Technology Association, School of Hydrology and Water Resources, Nanjing University of Information Science and Technology\n2022: Third Prize, 3rd China National Numerical Modeling Competition for Water Sciences (Organized by Chinese Hydraulic Engineering Society)\n2021: Permanent Representative, Student Congress, Nanjing University of Information Science and Technology"
+    "text": "Awards\n\n2023-2024: President, Science and Technology Association, School of Hydrology and Water Resources, Nanjing University of Information Science and Technology\n2022: Third Prize, 3rd China National Numerical Modeling Competition for Water Sciences (Organized by Chinese Hydraulic Engineering Society)\n2021-2022: Permanent Representative, Student Congress, Nanjing University of Information Science and Technology"
   },
   {
     "objectID": "skills.html",

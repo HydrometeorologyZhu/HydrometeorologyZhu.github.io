@@ -1,8 +1,83 @@
 ---
-title: "Codes"
+title: "life"
 editor: 
   markdown: 
     wrap: 72
 ---
 
-I will update in future
+# 生活记录
+
+<div class="reverse-order">
+
+## 2018
+
+![2018,2nd Place, 100m & 200m Dash, Qian'an City Sports Games](images/life/2018shiyunhui.jpg)
+
+## 2021
+
+![2021,Physical Geography Fieldwork(1)](images/life/2021dilishixi.jpg)
+
+![2021,Physical Geography Fieldwork(2)](images/life/2021dilishixi2.jpg)
+
+![2021,Voted at NUIST Student Congress](images/life/2021xuedaihui (2).jpg)
+
+![2021,Group Photo at NUIST Student Congress](images/life/2021xuedaihui.jpg)
+
+## 2022
+
+![2022,Free Climbing Nanjing Purple Mountain](images/life/2021zijinshan.jpg)
+
+![2022,Provincial Third Prize, Water Innovation Design Contest](images/life/20220923.jpg)
+
+![2022,Data Sampling near Nanjing Yangtze River (1)](images/life/20221009_122152.jpg)
+
+![2022,Data Sampling near Nanjing Yangtze River (2)](images/life/20221009_113231.jpg)
+
+![2022,Gas Composition Analysis with DC Instrument (1)](images/life/20221014_145457.jpg)
+
+![2022,Gas Composition Analysis with DC Instrument (2)](images/life/20221014_145452.jpg)
+
+![2022,NUIST Outstanding Student Cadre](images/life/20221216.jpg)
+
+![2022,NUIST Merit Student](images/life/20221217.jpg)
+
+![2022,Farm Internship](images/life/2022_3.jpg)
+
+![2022,Nanjing Hongshanyao Hydraulic Project Internship](images/life/2022hongshanyao.jpg)
+
+![2022,Nanjing Hydraulic Research Institute Visit](images/life/2022.jpg)
+
+![2022,National Second Prize, Numerical Water Science Modeling Contest](images/life/2022_10.jpg)
+
+## 2023
+
+![2023,Biked from Nanjing to Yangzhou (1)](images/life/20230312_013242.jpg)
+
+![2023,Biked from Nanjing to Yangzhou (2)](images/life/20230312_2.jpg)
+
+![2023,Guided Undergraduates in Scientific Plotting](images/life/2023_2.jpg)
+
+![2023,Promoted University Motto via Video (1)](images/life/149691.jpg)
+
+![2023,Promoted University Motto via Video (2)](images/life/149140.jpg)
+
+![2023,Concluded Provincial Innovation Project: CMIP6-based Extreme Rainfall Risk Zoning](images/life/2023Dachuang.jpg)
+
+![2023,Outstanding Student Cadre (President) of Sci-Tech Club](images/life/20231102.jpg)
+
+![2023,Sci-Tech Club Rated Level 5 (Top Tier)](images/life/20231101.jpg)
+
+## 2024
+
+![2024,Guided Club Activities (1)](images/life/2024_2.jpg)
+
+![2024,Guided Club Activities (2)](images/life/2024_1.jpg)
+
+</div>
+
+<style>
+.reverse-order {
+    display: flex;
+    flex-direction: column-reverse;
+}
+</style>

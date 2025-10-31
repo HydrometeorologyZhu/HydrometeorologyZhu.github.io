@@ -13,11 +13,10 @@ editor: visual
 
 ## Research
 
--   Wang H, Li X, Tong C, et al. Varying performance of eight evapotranspiration products with aridity and vegetation greenness across the globe[J]. Frontiers in Environmental Science, 2023, 11: 1079520. [Link](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079520/full)
--   
+-   Wang H, Li X, Tong C, et al. Varying performance of eight evapotranspiration products with aridity and vegetation greenness across the globe[J]. Frontiers in Environmental Science, 2023, 11: 1079520. [Link](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079520/full)   
 
 ## Awards
 
 - **2023-2024**: President, Science and Technology Association, School of Hydrology and Water Resources, Nanjing University of Information Science and Technology
 - **2022**: Third Prize, 3rd China National Numerical Modeling Competition for Water Sciences (Organized by Chinese Hydraulic Engineering Society)
-- **2021**: Permanent Representative, Student Congress, Nanjing University of Information Science and Technology
+- **2021-2022**: Permanent Representative, Student Congress, Nanjing University of Information Science and Technology
